@@ -14,4 +14,4 @@
       "event_category":"sports",
       "event":"summer olympics"
     }]
-}
+}{"events": [{"event": "covid", "event_category": "pandemic", "id": 1, "year": "2020"}, {"event": "west coast wildfires", "event_category": "environmental", "id": 2, "year": "2020"}, {"event": "summer olympics", "event_category": "sports", "id": 1, "year": "2021"}, {"event": "Running", "event_category": "Something", "id": 3, "year": 2023}]}
